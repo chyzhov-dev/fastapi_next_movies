@@ -1,3 +1,5 @@
+<h1>FastaAPI & NextJS movies</h1>
+
 This is a demo-project. You can find deployment info in subdirectories
 Techstack:
 - Backend:
